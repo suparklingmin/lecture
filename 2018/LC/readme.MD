@@ -2,11 +2,20 @@
 서울대학교 언어학과, 2018학년도 2학기
 
 + 목표: 이 과목은 컴퓨터언어학을 위한 기초 과정으로, 문자로 이루어진 텍스트 처리를 중심으로 인간의 언어를 컴퓨터에서 구현하는 과정을 배운다. 강좌는 크게 두 부분으로 이루어져 있다. 중간고사 이전에는 대량의 텍스트를 자동으로 처리할 수 있도록 Python 프로그램을 사용하는 방법을 익히며, 이후에는 자연언어 처리에 필요한 통계 모형에 관하여 학습한다.
-+ 교재: Jurafksy and Martin. (forthcoming). Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
++ 교재
+  - Jurafsky and Martin. (forthcoming). Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
+  - 조엘 그루스 지음. 박은정·김한결·하성주 옮김. (2016). 《밑바닥부터 시작하는 데이터 과학: 데이터 분석을 위한 파이썬 프로그래밍과 수학·통계 기초》. 인사이트.
++ 기타 참고 자료
+  - [Automating the boring stuff](https://automatetheboringstuff.com)
+  - [Think Python (2nd Edition)](http://greenteapress.com/wp/think-python-2e/)
+  - [씽크 파이썬](https://thebook.io/006878/)
+  - [파이썬 자습서](https://docs.python.org/ko/3/tutorial/index.html)
+
 
 ## 수업 일정 및 자료
 
 ### 제1강 (2018-09-03) 강의 소개
+\[숙제01] 파이썬 환경 만들기
 
 ### 제2강 (2018-09-05) 시작하기 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/02-20180905.pdf))
 
