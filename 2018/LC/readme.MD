@@ -120,7 +120,7 @@ try 문, 한글 음절 분해, 옛한글 자모 조합
 
 
 ### 제12강 (2018-10-31) 정규표현식 실습 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/12-20181031.pdf))
-re 모듈, ELIZA 파일
+re 모듈, ELIZA
 #### 코드
 + [reg_exp.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/reg_exp.py)
 + [eliza.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/eliza.py)
@@ -133,7 +133,7 @@ re 모듈, ELIZA 파일
 #### 과제
 + [\[숙제09\] ELIZA 완성하기 (조별)](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw09.pdf)
   - 자료: [eliza.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/eliza.txt)
-+ [\[숙제09심화\] 최소 편집 거리 알고리듬 구현하기](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw09.pdf)
++ [\[숙제09심화\] 최소 편집 거리 알고리듬 구현하기](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw09adv.pdf)
 
 
 ### 제13강 (2018-11-07) 벡터, 통계, 데이터 시각화 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/13-20181107.pdf))
