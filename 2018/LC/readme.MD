@@ -1,6 +1,7 @@
 # 언어와 컴퓨터 (100.130)
 서울대학교 언어학과, 2018학년도 2학기
 
++ 강의자: 박수지(
 + 목표: 이 과목은 컴퓨터언어학을 위한 기초 과정으로, 문자로 이루어진 텍스트 처리를 중심으로 인간의 언어를 컴퓨터에서 구현하는 과정을 배운다. 강좌는 크게 두 부분으로 이루어져 있다. 중간고사 이전에는 대량의 텍스트를 자동으로 처리할 수 있도록 Python 프로그램을 사용하는 방법을 익히며, 이후에는 자연언어 처리에 필요한 통계 모형에 관하여 학습한다.
 + 교재
   - Jurafsky and Martin. (forthcoming). Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
@@ -98,6 +99,10 @@ try 문, 한글 음절 분해, 옛한글 자모 조합 파일
 #### 코드
 + [try.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/try.py)
 + [hangul.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/hangul.py)
+#### 옛한글 지원 글꼴
++ [본고딕(Source Han Sans)](https://github.com/adobe-fonts/source-han-sans/blob/master/README-KR.md)
++ [본명조(Source Hans Serif)](https://github.com/adobe-fonts/source-han-serif/blob/master/README-KR.md)
++ [나눔옛한글](https://hangeul.naver.com/2014/archaicword)
 #### 과제
 + [\[숙제07\] 한글 처리 모듈 확장](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw07.pdf)
 + [\[숙제07심화\] 옛한글 입력 방법 추가](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw07adv.pdf)
@@ -105,20 +110,83 @@ try 문, 한글 음절 분해, 옛한글 자모 조합 파일
 ### 중간고사
 
 ### 제11강 (2018-10-29) 텍스트 처리 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/11-20181029.pdf))
+정규표현식, 코퍼스, 단어 토큰화, 단어 정제, 문장 분리 파일
+#### 코드
++ [maxmatch.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/maxmatch.py)
++ [decision_tree.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/decision_tree.py)
+#### 기타
++ [형태소 깎는 노인: 국어사 자료를 위한 형태분석 보조기](http://www.ndsl.kr/ndsl/search/detail/article/articleSearchResultDetail.do?cn=NPAP12638918) — MaxMatch와 비슷한 방법으로 형태소 분리하기
++ [단어 임베딩과 음성적 유사도를 이용한 트위터 ‘서치 방지 단어’ 의 자동 예측](http://www.ndsl.kr/ndsl/search/detail/article/articleSearchResultDetail.do?cn=NPAP12638863) — 최소 편집 거리로 음성적 유사도 측정하기
+
 
 ### 제12강 (2018-10-31) 정규표현식 실습 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/12-20181031.pdf))
+re 모듈, ELIZA 파일
+#### 코드
++ [reg_exp.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/reg_exp.py)
++ [eliza.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/eliza.py)
+#### 읽기
++ [ELIZA: a computer program for the study of natural language communication between man and machine](http://doi.org/10.1145/365153.365168)
+#### 도구
++ 정규표현식 테스트 [RegExr: Learn, Build, & Test RegEx](https://regexr.com)
++ 파이썬 라이브러리 [NLTK: Natural Language Toolkit](http://www.nltk.org)
++ 파이썬 라이브러리 [KoNLPy: 파이썬 한국어 NLP](http://konlpy.org/ko/latest/)
+#### 과제
++ [\[숙제09\] ELIZA 완성하기 (조별)](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw09.pdf)
+  - 자료: [eliza.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/eliza.txt)
++ [\[숙제09심화\] 최소 편집 거리 알고리듬 구현하기](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw09.pdf)
+
 
 ### 제13강 (2018-11-07) 벡터, 통계, 데이터 시각화 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/13-20181107.pdf))
+밑바닥부터 시작하는 데이터 과학 3장–8장.
+#### 코드
++ [vectors.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/vectors.py)
++ [statistics.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/statistics.py)
+#### 과제
++ [\[숙제10\] NumPy 및 SciPy 연습](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw10.pdf)
++ [\[숙제10심화\] 트위터 사용자 데이터 분석](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw10adv.pdf)
+  - 자료: [tweets.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/tweets.txt)
+  - [해설](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw10adv_solutions.pdf)
+#### 도구
++ [NumPy](http://www.numpy.org)
++ [SciPy](https://www.scipy.org)
 
 ### 제14강 (2018-11-12) n-그램 언어 모형 (1) ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/14-20181112.pdf))
 
 ### 제15강 (2018-11-14) n-그램 언어 모형 (2) ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/15-20181114.pdf))
+#### 코드
++ 문장 생성 [generate.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/generate.py)
++ “영어스러운 단어 생성” [ngrams.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/ngrams.py)
+   - 자료: [literary.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/literary.txt) https://en.oxforddictionaries.com/explore/literary-words
+#### 과제
++ [\[숙제11\] n-그램 언어 모형](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw11.pdf)
+
 
 ### 제16강 (2018-11-19) 단순 베이즈 분류기와 감정분석 (1) ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/16-20181119.pdf))
 
 ### 제17–18강 (2018-11-21,26) 단순 베이즈 분류기와 감정분석 (2-3) ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/17-20181121.pdf))
+#### 코드
++ 영화평 분류 [naivebayes_practice.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/naivebayes_practice.py)
+ - 자료: [reviews.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/reviews.txt) 
+   = 참조: [꼬꼬마 형태소 분석기: 품사 태그표](http://kkma.snu.ac.kr/documents/index.jsp?doc=postag)
+#### 과제
++ [\[숙제12\] 단순 베이즈 분류기를 사용한 당시(唐詩)의 감정 분류](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw12.pdf)
+  - 자료: [Sentiment lexicon for classical Chinese poetry](https://www.cl.uni-heidelberg.de/~hou/resources.mhtml)
+
 
 ### 제19강 (2018-11-28) scikit-learn과 NLTK를 사용한 기계학습 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/19-20181128.pdf))
+#### 코드
++ [naivebayes_nltk.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/naivebayes_nltk.py)
++ [naivebayes_sklearn.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/naivebayes_sklearn.py)
+#### 읽기
++ [NLTK: Learning to Classify Text](http://www.nltk.org/book/ch06.html)
++ [scikit-learn: Working With Text Data](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+#### 도구
++ [일부 환경에서 scikit-learn 설치 후 NumPy와 SciPy를 재설치하는 방법](https://code.i-harness.com/ko-kr/q/232f672)
+#### 과제
++ [\[숙제13\] 악성 트윗 분류기 개발하기 (조별)](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw13.pdf)
+  - 읽기: [Automated Hate Speech Detection and the Problem of Offensive Language](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665)
+  - 자료: https://github.com/t-davidson/hate-speech-and-offensive-language
+
 
 ### 제20강 (2018-12-03) 로지스틱 회귀분석 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/20-20181203.pdf))
 
