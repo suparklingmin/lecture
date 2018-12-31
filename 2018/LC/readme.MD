@@ -166,8 +166,8 @@ re 모듈, ELIZA 파일
 ### 제17–18강 (2018-11-21,26) 단순 베이즈 분류기와 감정분석 (2-3) ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/17-20181121.pdf))
 #### 코드
 + 영화평 분류 [naivebayes_practice.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/naivebayes_practice.py)
- - 자료: [reviews.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/reviews.txt) 
-   + 참조: [꼬꼬마 형태소 분석기: 품사 태그표](http://kkma.snu.ac.kr/documents/index.jsp?doc=postag)
+  - 자료: [reviews.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/reviews.txt) 
+    = 참조: [꼬꼬마 형태소 분석기: 품사 태그표](http://kkma.snu.ac.kr/documents/index.jsp?doc=postag)
 #### 과제
 + [\[숙제12\] 단순 베이즈 분류기를 사용한 당시(唐詩)의 감정 분류](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw12.pdf)
   - 자료: [Sentiment lexicon for classical Chinese poetry](https://www.cl.uni-heidelberg.de/~hou/resources.mhtml)
