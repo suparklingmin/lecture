@@ -15,17 +15,58 @@
 ## 수업 일정 및 자료
 
 ### 제1강 (2018-09-03) 강의 소개
-\[숙제01] 파이썬 환경 만들기
++ [hello.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/hello.py)
+#### 파이썬 인터프리터 사용하기
+##### 웹
++ [repl.it](https://repl.it)
++ [Python Tutor](http://pythontutor.com)
+##### 모바일
++ [QPython3 (안드로이드)](https://play.google.com/store/apps/details?id=org.qpython.qpy3)
++ [Pydroid 3 (안드로이드)](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
++ [Pythonista 3 (iOS)](https://itunes.apple.com/kr/app/pythonista-3/id1085978097?mt=8)
+#### 과제
++ \[숙제01] 파이썬 환경 만들기
 
 ### 제2강 (2018-09-05) 시작하기 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/02-20180905.pdf))
+#### 코드
++ [arith.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/arith.py)
++ [print_arith.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/print_arith.py)
++ [print_hello.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/print_hello.py)
 
 ### 제3강 (2018-09-10) 기본 자료형: 수와 문자열 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/03-20180910.pdf))
+#### 과제
++ \[숙제02] 파이썬 기본 개념 연습
+  - https://automatetheboringstuff.com/chapter1/ 연습문제
 
 ### 제4강 (2018-09-12) 반복 가능한 자료형 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/04-20180912.pdf))
+#### 코드
++ [count_char.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/count_char.py)
++ [sort_words.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/sort_words.py)
+#### 도구
++ [부동소수점 변환기](https://www.exploringbinary.com/floating-point-converter/)
++ [리스트 복사 과정 시각화](http://pythontutor.com)
 
 ### 제5강 (2018-09-17) 조건문 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/05-20180917.pdf))
+#### 코드
++ [cold_or_not.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/cold_or_not.py)
++ [cold_or_hot.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/cold_or_hot.py)
++ [cold_or_mild_or_hot.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/cold_or_mild_or_hot.py)
++ [multi3.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/multi3.py)
++ [password.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/password.py)
++ [fridge.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/fridge.py)
++ [arith_test.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/arith_test.py)
+#### 과제
++ \[숙제03] 리스트 및 조건문 연습
+  - https://automatetheboringstuff.com/chapter2/ 연습문제
+  - https://automatetheboringstuff.com/chapter4/ 연습문제
 
 ### 제6강 (2018-09-19) 반복문 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/06-20180919.pdf))
+#### 코드
++ [20180919-loop.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/20180919-loop.py)
++ [snooze.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/snooze.py)
+#### 과제
++ [\[숙제04\] 프로그래밍 연습]()
++ [\[숙제04심화\] 3-6-9 게임]()
 
 ### 제7강 (2018-10-01) 모듈과 함수 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/07-20181001.pdf))
 
