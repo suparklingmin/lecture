@@ -18,7 +18,7 @@
 ### 제1강 (2018-09-03) 강의 소개
 
 ### 제2강 (2018-09-05) 시작하기 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/02-20180905.pdf))
-강좌의 목표, 파이썬 인터프리터, 산술 연산, 오류 메시지 파일
+강좌의 목표, 파이썬 인터프리터, 산술 연산, 오류 메시지
 #### 코드
 + [arith.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/arith.py)
 + [print_arith.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/print_arith.py)
@@ -40,7 +40,7 @@
   - https://automatetheboringstuff.com/chapter1/ 연습문제
 
 ### 제4강 (2018-09-12) 반복 가능한 자료형 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/04-20180912.pdf))
-객체, 리스트, 튜플, 범위, 딕셔너리 파일
+객체, 리스트, 튜플, 범위, 딕셔너리
 #### 코드
 + [count_char.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/count_char.py)
 + [sort_words.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/sort_words.py)
@@ -49,7 +49,7 @@
 + [리스트 복사 과정 시각화](http://pythontutor.com)
 
 ### 제5강 (2018-09-17) 조건문 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/05-20180917.pdf))
-복합문, if, else, elif 키워드 파일
+복합문, if, else, elif 키워드
 #### 코드
 + [cold_or_not.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/cold_or_not.py)
 + [cold_or_hot.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/cold_or_hot.py)
@@ -64,7 +64,7 @@
   - https://automatetheboringstuff.com/chapter4/ 연습문제
 
 ### 제6강 (2018-09-19) 반복문 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/06-20180919.pdf))
-복합문, while, for, break, pass 키워드 파일
+복합문, while, for, break, pass 키워드
 #### 코드
 + [20180919-loop.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/20180919-loop.py)
 + [snooze.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/snooze.py)
@@ -93,7 +93,7 @@
 + [‘설믜를 설믜라 못 부르는’ 김설믜씨 “제 이름을 지켜주세요”](http://www.hani.co.kr/arti/society/society_general/864914.html)
 
 ### 제10강 (2018-10-17) 한글 처리 모듈 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/10-20181017.pdf))
-try 문, 한글 음절 분해, 옛한글 자모 조합 파일 
+try 문, 한글 음절 분해, 옛한글 자모 조합
 #### 읽기
 + [파이썬 자습서 8. 에러와 예외](https://docs.python.org/ko/3/tutorial/errors.html)
 #### 코드
@@ -110,7 +110,7 @@ try 문, 한글 음절 분해, 옛한글 자모 조합 파일
 ### 중간고사
 
 ### 제11강 (2018-10-29) 텍스트 처리 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/11-20181029.pdf))
-정규표현식, 코퍼스, 단어 토큰화, 단어 정제, 문장 분리 파일
+정규표현식, 코퍼스, 단어 토큰화, 단어 정제, 문장 분리
 #### 코드
 + [maxmatch.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/maxmatch.py)
 + [decision_tree.py](https://github.com/suzisuti/lecture/blob/master/2018/LC/codes/decision_tree.py)
