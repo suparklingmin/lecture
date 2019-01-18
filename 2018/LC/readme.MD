@@ -31,8 +31,6 @@
 + [QPython3 (안드로이드)](https://play.google.com/store/apps/details?id=org.qpython.qpy3)
 + [Pydroid 3 (안드로이드)](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 + [Pythonista 3 (iOS)](https://itunes.apple.com/kr/app/pythonista-3/id1085978097?mt=8)
-#### 과제
-+ \[숙제01] 파이썬 환경 만들기
 
 ### 제3강 (2018-09-10) 기본 자료형: 수와 문자열 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/03-20180910.pdf))
 #### 과제
