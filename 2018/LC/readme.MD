@@ -82,7 +82,7 @@
 + [씽크 파이썬: 9장. 사례 연구: 워드 플레이](https://thebook.io/006878/ch09/)
 #### 과제
 + [\[숙제06\] 파일 처리 연습](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw06.pdf)
-  - 자료: [현대 국어 사용 빈도 조사 결과 파일(텍스트 파일)](http://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=61) [데이터 proper_nouns.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/proper_nouns.txt)
+  - 자료: [현대 국어 사용 빈도 조사 결과 파일(텍스트 파일)](http://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=61) | [데이터 파일 proper_nouns.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/proper_nouns.txt)
   - 참고: [딕셔너리 사용하기](https://dojang.io/mod/page/view.php?id=1003)
 
 ### 제9강 (2018-10-10) 문자 인코딩 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/09-20181010.pdf))
@@ -168,7 +168,7 @@ re 모듈, ELIZA
     = 참조: [꼬꼬마 형태소 분석기: 품사 태그표](http://kkma.snu.ac.kr/documents/index.jsp?doc=postag)
 #### 과제
 + [\[숙제12\] 단순 베이즈 분류기를 사용한 당시(唐詩)의 감정 분류](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw12.pdf)
-  - 자료: [Sentiment lexicon for classical Chinese poetry](https://www.cl.uni-heidelberg.de/~hou/resources.mhtml) [데이터 poems.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/poems.txt)
+  - 자료: [Sentiment lexicon for classical Chinese poetry](https://www.cl.uni-heidelberg.de/~hou/resources.mhtml) | [데이터 poems.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/poems.txt)
 
 
 ### 제19강 (2018-11-28) scikit-learn과 NLTK를 사용한 기계학습 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/19-20181128.pdf))
@@ -183,7 +183,7 @@ re 모듈, ELIZA
 #### 과제
 + [\[숙제13\] 악성 트윗 분류기 개발하기 (조별)](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/hw13.pdf)
   - 읽기: [Automated Hate Speech Detection and the Problem of Offensive Language](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665)
-  - 자료: https://github.com/t-davidson/hate-speech-and-offensive-language [데이터 파일 train.txt]([데이터](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/train.txt)
+  - 자료: https://github.com/t-davidson/hate-speech-and-offensive-language | [데이터 파일 train.txt](https://github.com/suzisuti/lecture/blob/master/2018/LC/hw/train.txt)
 
 
 ### 제20강 (2018-12-03) 로지스틱 회귀분석 ([슬라이드](https://github.com/suzisuti/lecture/blob/master/2018/LC/slides/20-20181203.pdf))
