@@ -1,5 +1,7 @@
 # 언어와 컴퓨터 
 
+2021학년도 2학기 서울대학교 언어학과 전공탐색
+
 ## 교수자
 
 박수지 (mam3b at snu.ac.kr, https://github.com/suzisuti)
