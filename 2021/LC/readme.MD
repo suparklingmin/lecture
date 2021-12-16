@@ -18,6 +18,10 @@
 
 ### 제1강 (2021-09-01) 강의 소개 및 파이썬 시작
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/01-20210901.pdf)
+
 #### 참고 자료
 
 + [Eliza, Computer Therapist](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm)
@@ -28,38 +32,72 @@
 
 ### 제2강 (2021-09-06) 파이썬 기본 문법
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/02-20210906.pdf)
+
 ---
 
 ### 제3강 (2021-09-08) 반복 가능한 자료형
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/03-20210908.pdf)
 
 ---
 
 ### 제4강 (2021-09-13) 반복문
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/04-20210913.pdf)
+
 ---
 
 ### 제5강 (2021-09-15) 조건문
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/05-20210915.pdf)
 
 ---
 
 ### 제6강 (2021-09-27) 함수와 모듈
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/06-20210927.pdf)
+
 ---
 
 ### 제7강 (2021-09-29) 예외 처리
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/07-20210929.pdf)
 
 ---
 
 ### 제8강 (2021-10-06) 정규표현식 (1)
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/08-20211006.pdf)
+
+[Slides: Text Processing by Dan Jurafsky](https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc_Mar_25_2021.pdf)
+
+
 #### 참고 자료 
 + [SLP3: Ch. 2 Regular Expressions, Text Normalization, and Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
-+ [Slides: Text Processing by Dan Jurafsky](https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc_Mar_25_2021.pdf)
 + [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
 
 ---
 
 ### 제9강 (2021-10-13) 정규표현식 (2)
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/09-20211013.pdf)
 
 #### 참고 자료
 
@@ -69,6 +107,10 @@
 
 ### 제10강 (2021-10-18) 파일 처리 (1)
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/10-20211018.pdf)
+
 #### 실습 코드
 
 https://colab.research.google.com/drive/1Wd5gP-zEMfACWaQ4fH8GcjMwRlVzC6Rq
@@ -76,6 +118,10 @@ https://colab.research.google.com/drive/1Wd5gP-zEMfACWaQ4fH8GcjMwRlVzC6Rq
 ---
 
 ### 제11강 (2021-10-20) 파일 처리 (2)
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/11-20211020.pdf)
 
 #### 참고 자료
 
@@ -89,6 +135,10 @@ https://colab.research.google.com/drive/1Wd5gP-zEMfACWaQ4fH8GcjMwRlVzC6Rq
 
 ### 제13강 (2021-10-27) 벡터, 통계, 데이터 시각화 (1)
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/13-20211027.pdf)
+
 #### 참고 자료
 + [밑바닥부터 시작하는 데이터 사이언스 (2판)](https://github.com/insightbook/Data-Science-from-Scratch)
 
@@ -96,9 +146,17 @@ https://colab.research.google.com/drive/1Wd5gP-zEMfACWaQ4fH8GcjMwRlVzC6Rq
 
 ### 제14강 (2021-11-01) 벡터, 통계, 데이터 시각화 (2)
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/14-20211101.pdf)
+
 ---
 
 ### 제15강 (2021-11-03) N그램 언어 모형 (1)
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/15-20211103.pdf)
 
 #### 참고 자료
 
@@ -108,6 +166,10 @@ https://colab.research.google.com/drive/1Wd5gP-zEMfACWaQ4fH8GcjMwRlVzC6Rq
 ---
 
 ### 제16강 (2021-11-08) N그램 언어 모형 (2)
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/16-20211108.pdf)
 
 #### 실습 코드
 
@@ -122,9 +184,17 @@ https://colab.research.google.com/drive/1XFkZApol9a8fbHHqHSybQ8BMDF6FEscL
 
 ### 제17강 (2021-11-10) N그램 언어 모형 (3)
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/17-20211110.pdf)
+
 ---
 
 ### 제18강 (2021-11-15) 단순 베이즈 분류기와 감정분석 (1)
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/18-20211115.pdf)
 
 #### 참고 자료
 
@@ -134,6 +204,10 @@ https://colab.research.google.com/drive/1XFkZApol9a8fbHHqHSybQ8BMDF6FEscL
 
 ### 제19강 (2021-11-17) 단순 베이즈 분류기와 감정분석 (2)
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/19-20211117.pdf)
+
 #### 실습 코드
 
 https://colab.research.google.com/drive/1C8lM22-5ILMCH0CemzXKBCWXrHyc2yIJ?usp=sharing
@@ -142,6 +216,10 @@ https://colab.research.google.com/drive/1C8lM22-5ILMCH0CemzXKBCWXrHyc2yIJ?usp=sh
 
 ### 제20강 (2021-11-22) 로지스틱 회귀분석 (1)
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/20-20211122.pdf)
+
 #### 참고 자료
 
 + [SLP3: Ch.5 Logistic Regression](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
@@ -149,6 +227,10 @@ https://colab.research.google.com/drive/1C8lM22-5ILMCH0CemzXKBCWXrHyc2yIJ?usp=sh
 ---
 
 ### 제21강 (2021-11-24) 로지스틱 회귀분석 (2)
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/21-20211124.pdf)
 
 #### 실습 코드
 
@@ -163,6 +245,10 @@ https://colab.research.google.com/drive/19PcTY3eEm-Yy0NPiCIir-0M-6Uvu4K4l?usp=sh
 
 ### 제22강 (2021-11-29) 로지스틱 회귀분석 (3)
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/22-20211129.pdf)
+
 #### 실습 코드
 
 https://colab.research.google.com/drive/1AEUWk9MyA1PI8llZ7zVJD1kRqkyqxl_G?usp=sharing
@@ -170,6 +256,10 @@ https://colab.research.google.com/drive/1AEUWk9MyA1PI8llZ7zVJD1kRqkyqxl_G?usp=sh
 ---
 
 ### 제23강 (2021-12-01) 벡터 의미론 (1)
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/23-20211201.pdf)
 
 #### 실습 코드
 
@@ -182,6 +272,10 @@ https://colab.research.google.com/drive/1bBg_CcZduJiFS7DVTMQxg0iPgMyqodZT?usp=sh
 ---
 
 ### 제24강 (2021-12-08) 벡터 의미론 (2)
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2021/LC/slides/24-20211208.pdf)
 
 #### 실습 코드
 
