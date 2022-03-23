@@ -33,11 +33,15 @@
 
 #### 슬라이드
 
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/03-20220314.pdf)
+
 ---
 
 ### 제4강 (2021-03-16) 로지스틱 회귀분석 (2)
 
 #### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/04-20220316.pdf)
 
 ---
 
