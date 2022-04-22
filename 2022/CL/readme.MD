@@ -47,33 +47,65 @@
 
 ### 5강 (2022-03-21) SLP3 6.1-5 벡터 의미론: 어휘 의미론과 단어 벡터, 코사인 유사도, TF-IDF, PMI6
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/05-20220321.pdf)
+
 ---
 
 ### 6강 (2022-03-23) SLP3 6.6-8 벡터 의미론: Word2Vec, 단어 임베딩의 해석 및 활용
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/06-20220323.pdf)
 
 ---
 
 ### 7강 (2022-03-28) SLP3 7.1-2 신경망 언어 모형: 계산 유닛, XOR 문제
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/07-20220328.pdf)
+
 ---
 
 ### 8강 (2022-03-30) SLP3 7.3-4 신경망 언어 모형: 순방향 신경망(FFNN)의 구성 요소
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/08-20220330.pdf)
 
 ---
 
 ### 9강 (2022-04-04) SLP3 7.5-6 신경망 언어 모형: FFNN 모형의 구성 및 훈련 방법
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/09-20220404.pdf)
+
 ---
 
 ### 10강 (2022-04-06) SLP3 7.6-7 신경망 언어 모형: FFNN 언어 모형
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/10-20220406.pdf)
 
 ---
 
 ### 11강 (2022-04-11) 밑바닥부터 시작하는 딥러닝 (1) 7장: CNN
 
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/11-20220411.pdf)
+
 ---
 
 ### 12강 (2022-04-13) Kim (2014) “Convolutional Neural Networks for Sentence Classification”
+
+#### 슬라이드
+
+[파일 링크](https://github.com/suzisuti/lecture/blob/master/2022/CL/slides/12-20220413.pdf)
 
 ---
 
